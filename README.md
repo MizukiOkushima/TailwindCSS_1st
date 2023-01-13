@@ -1,9 +1,9 @@
 # TailwindCSS_1st
-## 概要
+### 概要
 TailwindCSSを使ったwebページ作成を行う。<br>
 他にフレームワーク等は使わないで行う。<br>
 
-## 環境構築
+### 環境構築
 1. package.jsonを初期化する。<br>
 `npm init -y`<br>
 
