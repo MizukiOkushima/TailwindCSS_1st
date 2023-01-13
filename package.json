@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss_1st",
+  "version": "1.0.0",
+  "description": "TailwindCSSを使ったwebページ作成を行う。<br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MizukiOkushima/TailwindCSS_1st.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MizukiOkushima/TailwindCSS_1st/issues"
+  },
+  "homepage": "https://github.com/MizukiOkushima/TailwindCSS_1st#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
